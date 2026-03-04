@@ -242,7 +242,8 @@ p{
     /* Styles were added here to arrange the content, these are grid children styles */
     /* TO DO */
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    
     
 
 }
